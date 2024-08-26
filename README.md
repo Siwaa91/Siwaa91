@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHIVANANDAN K B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React And Django**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
